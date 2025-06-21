@@ -26,7 +26,7 @@
 # Tweaks
 ### Groups
 You can choose wich groups are shown by manually editing these lines:
-
+```javascript
 // ========================
 // CONFIG - true to activate, false to deactivate
 // ========================
@@ -35,8 +35,9 @@ const USE_HIRAGANA_BASE = true;
 const USE_KATAKANA_BASE = false;
 const USE_DAKUTEN = false; // が - ぢ
 const USE_HANDADAKUTEN = false; // ぱ - ぴ
-
+```
 ### Time
 You can choose to appreciate a little more your characters by scrolling all the way down to the bottom of this script and modify the last value (1 = 1 minute in this case):
-
+```javascript
 widget.refreshAfterDate = new Date(Date.now() + 1000 * 60 * 1);
+```
