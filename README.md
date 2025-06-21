@@ -5,7 +5,7 @@
 
 # Info & Features
 - This widget is meant to be used solely on lock screen
-- You can choose which groups to keep active
+- You can choose which groups to keep active (Katakana, Hiragana or Both)
 - Lightweight (tested on Iphone 8)
 - refresh every minute(ish) by default
 - click on the character to open it in the browser
