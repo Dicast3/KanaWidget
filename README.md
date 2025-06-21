@@ -3,12 +3,12 @@
 |-----------|-----------|
 | ![Widget on](KanaWidgetON.PNG) | ![Widget off](KanaWidgetOFF.PNG) |
 
-# General Info
-- Large widget is ugly (i'll not fix it soon)
-- Cool catgirl pics
+# Info & Features
+- This widget is meant to be used solely on lock screen
+- You can choose which groups to keep active
 - Lightweight (tested on Iphone 8)
-- Image refresh every hour by default
-- click on the photo to open it in the browser, click on the author to open his profile (exclusive to the medium widget)
+- refresh every minute(ish) by default
+- click on the character to open it in the browser
 
 # How to install
 ### Manual installation
