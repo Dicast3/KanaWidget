@@ -1,7 +1,7 @@
 # Screenshots
-| Small widget | Medium widget |
+| Widget ON | Widget OFF |
 |-----------|-----------|
-| ![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/small_widget.jpeg) | ![medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/medium_widget.jpeg) |
+| ![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/small_widget.jpeg) | ![Widget off](KanaWidgetOFF.PNG) |
 
 # General Info
 - Large widget is ugly (i'll not fix it soon)
