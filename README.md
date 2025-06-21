@@ -16,7 +16,7 @@
 2) Open Scriptable, click + in the top right
 3) Quit the app
 4) Open this repo and Search for KanaWidget.js
-5) Copy the content of this file and paste the Kanawidget.js text in the "Untitled Script" (click on the three dots)
+5) Copy the content of this file and paste the KanaWidget.js text in the "Untitled Script" (click on the three dots)
 6) Quit the Sciptable app
 7) Swipe down to your notification center and long press on your wallpaper
 8) Choose "Customize" under your lockscreen, then your lockscreen
